@@ -1,6 +1,5 @@
-# ensf617-a2-group13-GarbageClassification
 
-# ENSF 637 – Assignment 2 
+# ENSF 617 – Assignment 2 
 ## Group 13 
 
 ### Group Members 
